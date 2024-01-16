@@ -2,13 +2,13 @@
   "basics": {
     "name": "Myra Ortigosa",
     "label": "Student",
-    "picture": "https://github.com/myraycyrus.png",
+    "picture": "https://github.com/myraort.png",
     "email": "ortigosa@hawaii.edu",
-    "website": "https://myraycyrus.github.io",
+    "website": "https://myraort.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "myraycyrus", "url": "http://github.com/myraycyrus" },
+      { "network": "github", "username": "myraort", "url": "http://github.com/myraort" },
       { "network": "linkedin", "username": "Myra Angelica Ortigosa", "url": "https://www.linkedin.com/in/myra-angelica-ortigosa-5661a4275/" }
     ]
   },
