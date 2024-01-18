@@ -12,11 +12,12 @@ labels:
 
 ## Learning a New Language ##
 
-As the new semester kicks off, we're faced with the challenge of learning a new programming language in just one week! Sound doable? It actually was! I found Javascript easier to learn and understand due to its similarities with Java and C. Starting with the basics, Javascript might be one of my favorite languages to code in. 
 
 <img width="175px" 
      class="rounded float-start pe-4" 
      src="../img/javascript-map-1.png" >
+
+As the new semester kicks off, we're faced with the challenge of learning a new programming language in just one week! Sound doable? It actually was! I found Javascript easier to learn and understand due to its similarities with Java and C. Starting with the basics, Javascript might be one of my favorite languages to code in. 
      
 The first programming language I’ve learned was Java back in Fall 2022. With no prior coding experience whatsoever, I’ve found coding to be pretty hard to learn and pick up. But as the semester progressed, I’ve found myself to be more comfortable working with Java. Soon after, I picked up C and C++. 
 
