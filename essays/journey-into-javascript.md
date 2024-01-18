@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Journey into Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-1-17
 published: true
 labels:
   - Software Engineering
