@@ -12,16 +12,15 @@ labels:
 
 ## Learning a New Language ##
 
-Starting off the new semester, we're expected to learn a new programming language in a week?!? Sounds doable? It actually was! I found Javascript easier to learn and understand due to its similarities with Java and C. From learning the basics, Javascript might be one of my favorite languages to code in. 
-
-The first programming language I’ve learned was Java back in Fall 2022. With no prior coding experience whatsoever, I’ve found coding to be pretty hard to learn and pick up. But as the semester progressed, I’ve found myself to be more comfortable working with Java. Soon after, I picked up C and C++. 
+As the new semester kicks off, we're faced with the challenge of learning a new programming language in just one week! Sound doable? It actually was! I found Javascript easier to learn and understand due to its similarities with Java and C. Starting with the basics, Javascript might be one of my favorite languages to code in. 
 
 <img width="175px" 
      class="rounded float-start pe-4" 
      src="../img/javascript-map-1.png" >
+     
+The first programming language I’ve learned was Java back in Fall 2022. With no prior coding experience whatsoever, I’ve found coding to be pretty hard to learn and pick up. But as the semester progressed, I’ve found myself to be more comfortable working with Java. Soon after, I picked up C and C++. 
 
-I feel like Javascript is a really good beginning language to learn as a software engineer. 
- What I liked was how flexible and simplistic Javascript really is. The syntax is pretty simple to understand and it makes it easy to implement what you want to do. Although, I found it interesting that you didn’t have to state the datatype of a variable since you would need to for other coding languages such as Java or C. Throughout the ES6 module, what I found enjoyable was learning a bit about scripting. Due to a prior opportunity, I got to dabble a bit in HTML and I thought the structure of it seemed really cool to learn and I’m pretty excited that we’re able to practice HTML in this class. 
+I feel like Javascript is an excellent language to learn as a software engineer.I liked how flexible and simplistic Javascript really is. The syntax is pretty simple to understand and it makes it easy to implement what you want to do. Although, I found it interesting that you didn’t have to state the datatype of a variable since you would need to for other coding languages such as Java or C. Throughout the ES6 module, what I found enjoyable was learning a bit about scripting. Due to a prior opportunity, I got to dabble a bit in HTML and I thought the structure of it seemed really cool to learn and I’m pretty excited that we’re able to practice HTML in this class. 
 
 ## WOD's! ##
 
