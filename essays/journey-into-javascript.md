@@ -19,7 +19,7 @@ The first programming language I’ve learned was Java back in Fall 2022. With n
 I feel like Javascript is a really good beginning language to learn as a software engineer. 
  What I liked was how flexible and simplistic Javascript really is. The syntax is pretty simple to understand and it makes it easy to implement what you want to do. Although, I found it interesting that you didn’t have to state the datatype of a variable since you would need to for other coding languages such as Java or C. Throughout the ES6 module, what I found enjoyable was learning a bit about scripting. Due to a prior opportunity, I got to dabble a bit in HTML and I thought the structure of it seemed really cool to learn and I’m pretty excited that we’re able to practice HTML in this class. 
 
-##WODs!##
+## WODs! ##
 
 I believe that to become a great programmer, regularly practicing your skills is essential. This is where I believe that the idea of athletic software engineering comes in. Although I believe that no one wants to be forced into a high intensity and stress-inducing situation, Workout of the Day (WODs) is a great way to really challenge yourself to reinforce and test your abilities under pressure as it does simulate actual coding problems in real-world interviews. 
 
