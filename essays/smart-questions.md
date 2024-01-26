@@ -11,6 +11,10 @@ labels:
   - Stack Overflow
 ---
 
+<img width="175px" 
+     class="rounded float-start pe-4" 
+     src="../img/smart/smart.jpeg" >
+
 Throughout my school life, I’ve had teachers emphasize that “There are no such things as stupid questions,” highlighting the value of not being afraid of inquiry in learning. Although this may be true when we’re younger, but as we grow into more mature and mindful adults, it is not the case.  In the essay ["How To Ask Questions The Smart Way,"](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond, offers guidance on being an effective communicator when posting questions in forms. I do believe that critically thinking and asking a good question is an essential skill in life despite whatever job you’re in.
 
 ## SWE Loves Smart Questions! ##
