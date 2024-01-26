@@ -28,7 +28,7 @@ A smart question must have a clear purpose or goal with a certain objective in m
 
 Stack Overflow is a valuable question and answer platform for programmers that serves as a great tool for those seeking assistance with coding issues or to broaden their coding skills and knowledge. Let’s look at some examples:
 
-```
+```cpp
 I've got an ApolloServer project that's giving me trouble, so I thought I might update it and ran into issues when using the latest Babel. My "index.js" is:
 
 require('dotenv').config()
