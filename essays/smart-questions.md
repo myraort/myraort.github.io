@@ -1,99 +1,87 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart and Dumb Questions??"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-01-25
 published: true
 labels:
   - Questions
   - Answers
-  - StackOverflow
+  - Stack Overflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+Throughout my school life, I’ve had teachers emphasize that “There are no such things as stupid questions,” highlighting the value of not being afraid of inquiry in learning. Although this may be true when we’re younger, but as we grow into more mature and mindful adults, it is not the case.  In the essay ["How To Ask Questions The Smart Way,"](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond, offers guidance on being an effective communicator when posting questions in forms. I do believe that critically thinking and asking a good question is an essential skill in life despite whatever job you’re in.
 
-## Is there such thing as a stupid question?
+## SWE loves smart questions ##
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Since software engineers usually work in a collaborative and fast-paced environment, asking smart questions is crucial. It’s a critical skill that leads to efficient problem solving, clear communication, and community contribution. The ability to ask smart questions enhances teamwork and helps clarify any potential issues along the way. 
 
-## What’s a smart question?
+## So, what makes a question smart? ## 
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+A smart question must have a clear purpose or goal with a certain objective in mind. It should demonstrate that the person who is asking the question made a genuine effort to solve the problem before asking for help. Such as, looking it up on the internet, troubleshooting, and reading documentation. Smart questions also consider the time and effort of the reader and make sure that they are not wasting their time as well. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+Stack Overflow is a valuable question and answer platform for programmers that serves as a great tool for those seeking assistance with coding issues or to broaden their coding skills and knowledge. Let’s look at some examples:
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+I've got an ApolloServer project that's giving me trouble, so I thought I might update it and ran into issues when using the latest Babel. My "index.js" is:
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+require('dotenv').config()
+import {startServer} from './server'
+startServer()
+And when I run it I get the error
 
-Like this:
+SyntaxError: Cannot use import statement outside a module
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+First I tried doing things to convince TPTB* that this was a module (with no success). So I changed the "import" to a "require" and this worked.
+
+But now I have about two dozen "imports" in other files giving me the same error.
+
+*I'm sure the root of my problem is that I'm not even sure what's complaining about the issue. I sort of assumed it was Babel 7 (since I'm coming from Babel 6 and I had to change the presets) but I'm not 100% sure.
+
+Most of what I've found for solutions don't seem to apply to straight Node. Like this one here:
+
+ES6 module Import giving "Uncaught SyntaxError: Unexpected identifier"
+
+Says it was resolved by adding "type=module" but this would typically go in the HTML, of which I have none. I've also tried using my project's old presets:
+
+"presets": ["es2015", "stage-2"],
+"plugins": []
+But that gets me another error: "Error: Plugin/Preset files are not allowed to export objects, only functions."
+
+Here are the dependencies I started with:
+
+"dependencies": {
+  "@babel/polyfill": "^7.6.0",
+  "apollo-link-error": "^1.1.12",
+  "apollo-link-http": "^1.5.16",
+  "apollo-server": "^2.9.6",
+  "babel-preset-es2015": "^6.24.1",
+```
+
+This [“question”](https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module)  on Stack Overflow meets the criteria of a smart question. The user is running an ApolloServer project but they keep getting this error, “SyntaxError: Cannot use import statement outside a module.” (Add code) The question was very informative and the user provided examples on how they tried to troubleshoot the error and explained what the root of the problem was. The user received multiple answers that answered the main question. The answers were clear, informative, and free of sarcasm and hostility of “hackers.”
+
+## The Opposite ##
+
+While there are a decent amount of questions on Stack Overflow, there are a lot of questions that could use some improvement.
+
+In this [“question”](https://stackoverflow.com/questions/77882453/how-do-i-create-a-chat-widget-embed-script) the user is asking how to create an embedded chat widget. 
 
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+I built a chat application(React) similar to ChatBot.com(LiveChat) and I am trying to create an embed script that people could include on their site.
 
-## The foolproof way to get ignored.
+Live example: you can see right side bottom corner chat widget. https://www.chatbot.com/integrations/livechat/
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+Please how do I achieve this. Thanks.
 
 ```
-Q: Facebook Desktop Notifier
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+As you can see, the user provides minimal information on what he is trying to look for. The user gave an example of a site with his potential outcome but did not provide any detail of their own project. The user should have done more research on their potential project and could’ve asked a more specific and detailed question for the reader.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+## Conclusion ##
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
+The ability to ask smart questions is not just about obtaining answers. It’s about asking in a way that helps everyone; for both the user and readers. This improves the entire community by fostering clear and helpful conversations. Good questions lead to better understanding and teamwork for everyone involved. So, next time you have a question, think to yourself: is it a smart one?
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+Used ChatGPT for grammar checks and spelling errors.
 
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
