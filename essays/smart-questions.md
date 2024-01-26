@@ -28,7 +28,7 @@ A smart question must have a clear purpose or goal with a certain objective in m
 
 Stack Overflow is a valuable question and answer platform for programmers that serves as a great tool for those seeking assistance with coding issues or to broaden their coding skills and knowledge. Let’s look at some examples:
 
-```
+
 I've got an ApolloServer project that's giving me trouble, so I thought I might update it and ran into issues when using the latest Babel. My "index.js" is:
 
 `require('dotenv').config()
@@ -63,7 +63,7 @@ Here are the dependencies I started with:
   "apollo-link-http": "^1.5.16",
   "apollo-server": "^2.9.6",
   "babel-preset-es2015": "^6.24.1", `
-```
+
 
 This [question](https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module)  on Stack Overflow meets the criteria of a smart question. The user is running an ApolloServer project but they keep getting this error, “SyntaxError: Cannot use import statement outside a module.” (Add code) The question was very informative and the user provided examples on how they tried to troubleshoot the error and explained what the root of the problem was. The user received multiple answers that answered the main question. The answers were clear, informative, and free of sarcasm and hostility of “hackers.”
 
