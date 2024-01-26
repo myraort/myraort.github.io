@@ -28,16 +28,15 @@ A smart question must have a clear purpose or goal with a certain objective in m
 
 Stack Overflow is a valuable question and answer platform for programmers that serves as a great tool for those seeking assistance with coding issues or to broaden their coding skills and knowledge. Let’s look at some examples:
 
-
+```
 I've got an ApolloServer project that's giving me trouble, so I thought I might update it and ran into issues when using the latest Babel. My "index.js" is:
 
-`require('dotenv').config()
+require('dotenv').config()
 import {startServer} from './server'
-startServer() `
+startServer() 
 And when I run it I get the error
 
-
-> SyntaxError: Cannot use import statement outside a module
+SyntaxError: Cannot use import statement outside a module
 
 First I tried doing things to convince TPTB* that this was a module (with no success). So I changed the "import" to a "require" and this worked.
 
@@ -51,19 +50,19 @@ ES6 module Import giving "Uncaught SyntaxError: Unexpected identifier"
 
 Says it was resolved by adding "type=module" but this would typically go in the HTML, of which I have none. I've also tried using my project's old presets:
 
-`"presets": ["es2015", "stage-2"],
-"plugins": [] `
+"presets": ["es2015", "stage-2"],
+"plugins": [] 
 But that gets me another error: "Error: Plugin/Preset files are not allowed to export objects, only functions."
 
 Here are the dependencies I started with:
 
-`"dependencies": {
+"dependencies": {
   "@babel/polyfill": "^7.6.0",
   "apollo-link-error": "^1.1.12",
   "apollo-link-http": "^1.5.16",
   "apollo-server": "^2.9.6",
-  "babel-preset-es2015": "^6.24.1", `
-
+  "babel-preset-es2015": "^6.24.1", 
+```
 
 This [question](https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module)  on Stack Overflow meets the criteria of a smart question. The user is running an ApolloServer project but they keep getting this error, “SyntaxError: Cannot use import statement outside a module.” (Add code) The question was very informative and the user provided examples on how they tried to troubleshoot the error and explained what the root of the problem was. The user received multiple answers that answered the main question. The answers were clear, informative, and free of sarcasm and hostility of “hackers.”
 
