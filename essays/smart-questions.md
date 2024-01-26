@@ -13,11 +13,11 @@ labels:
 
 Throughout my school life, I’ve had teachers emphasize that “There are no such things as stupid questions,” highlighting the value of not being afraid of inquiry in learning. Although this may be true when we’re younger, but as we grow into more mature and mindful adults, it is not the case.  In the essay ["How To Ask Questions The Smart Way,"](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond, offers guidance on being an effective communicator when posting questions in forms. I do believe that critically thinking and asking a good question is an essential skill in life despite whatever job you’re in.
 
-## SWE loves smart questions ##
+## SWE Loves Smart Questions! ##
 
 Since software engineers usually work in a collaborative and fast-paced environment, asking smart questions is crucial. It’s a critical skill that leads to efficient problem solving, clear communication, and community contribution. The ability to ask smart questions enhances teamwork and helps clarify any potential issues along the way. 
 
-## So, what makes a question smart? ## 
+## So, What Makes A Question Smart? ## 
 
 A smart question must have a clear purpose or goal with a certain objective in mind. It should demonstrate that the person who is asking the question made a genuine effort to solve the problem before asking for help. Such as, looking it up on the internet, troubleshooting, and reading documentation. Smart questions also consider the time and effort of the reader and make sure that they are not wasting their time as well. 
 
