@@ -60,13 +60,13 @@ Here are the dependencies I started with:
   "babel-preset-es2015": "^6.24.1",
 ```
 
-This [“question”](https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module)  on Stack Overflow meets the criteria of a smart question. The user is running an ApolloServer project but they keep getting this error, “SyntaxError: Cannot use import statement outside a module.” (Add code) The question was very informative and the user provided examples on how they tried to troubleshoot the error and explained what the root of the problem was. The user received multiple answers that answered the main question. The answers were clear, informative, and free of sarcasm and hostility of “hackers.”
+This [question](https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module)  on Stack Overflow meets the criteria of a smart question. The user is running an ApolloServer project but they keep getting this error, “SyntaxError: Cannot use import statement outside a module.” (Add code) The question was very informative and the user provided examples on how they tried to troubleshoot the error and explained what the root of the problem was. The user received multiple answers that answered the main question. The answers were clear, informative, and free of sarcasm and hostility of “hackers.”
 
 ## The Opposite ##
 
 While there are a decent amount of questions on Stack Overflow, there are a lot of questions that could use some improvement.
 
-In this [“question”](https://stackoverflow.com/questions/77882453/how-do-i-create-a-chat-widget-embed-script) the user is asking how to create an embedded chat widget. 
+In this [question](https://stackoverflow.com/questions/77882453/how-do-i-create-a-chat-widget-embed-script) the user is asking how to create an embedded chat widget. 
 
 ```
 I built a chat application(React) similar to ChatBot.com(LiveChat) and I am trying to create an embed script that people could include on their site.
