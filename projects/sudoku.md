@@ -15,7 +15,7 @@ This assignment allowed us to dive deeper into applications of recursion in Java
 
 As I worked through the assignment, I found myself getting more comfortable with the concept of recursion. Each recursive call in the fillSudoku function brought me closer to understanding this approach. It was cool to see how a complex problem could be broken down into simpler parts. This experience was rewarding as it reinforced the power of recursive thinking not just in programming, but in problem-solving in general. Although this assignment took me hours to complete, seeing the Sudoku grid filled in correctly felt great. 
 
-Here is some of my fillSudoku() code:
+Here is some of my `fillSudoku()` code:
 
 ```cpp
 public static boolean fillSudoku(int[][] sudoku) {
