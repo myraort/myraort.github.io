@@ -31,6 +31,7 @@ The rover!
 ![GIF](https://github.com/myraort/myraort.github.io/blob/main/img/cuberover/cuberover.gif) 
 
 <img src="https://raw.githubusercontent.com/myraort/myraort.github.io/blob/main/img/cuberover/cuberover.gif" alt="GIF">
+<img src="/img/cuberover/cuberover.gif" alt="GIF">
 
 
 Don't know where is the original Github repository but here is what I have: 
