@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/sudoku.png
 title: "Sudoku"
-date: 2023-04-21
+date: 2023
 published: true
 labels:
   - Java    
