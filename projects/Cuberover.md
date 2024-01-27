@@ -16,7 +16,7 @@ summary: "A student-lead research group I was part in my second semester of coll
 
 <img width="175px" 
      class="rounded float-start pe-4" 
-     src="../img/cuberover/cuberover_cam.jpeg" >
+     src="../img/camera.jpeg" >
 
 
 ### To the Moon! ###
