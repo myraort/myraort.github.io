@@ -26,6 +26,7 @@ We were divided into two groups focusing on software and hardware. Joy and Kenoi
  
 Looking back, I would say that Ashten really made us explore different avenues of this project, encouraging us to think outside of the box and come up with new approaches. This project broadened my horizons in both software and hardware. I gained many valuable experiences in software aspects and a bit in hardware as well. I learned key skills such as teamwork, effective communication, and working under tight deadlines. Overall, this project was an enjoyable experience and seeing the outcome of what we all put in is something that I’ll never forget.
 
+[Link to video](https://github.com/myraort/img/cuberover/cuberover.mov)
 
 
 Don't know where is the original Github repository but here is what I have: 
