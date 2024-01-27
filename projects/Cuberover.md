@@ -13,7 +13,7 @@ labels:
 summary: "A student-lead research group I was part in my second semester of college."
 ---
 
-<img src=".../img/camera.png" width="500" height="300">
+<img src="/img/camera.png" width="500" height="300">
 
 
 ### To the Moon! ###
