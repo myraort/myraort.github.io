@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Cuberover"
+title: "CubeRover"
 date: 2023
 published: true
 labels:
@@ -22,4 +22,6 @@ Looking back, I would say that Ashten really made us explore different avenues o
 
 
 Don't know wheres the original Github Repo but here is what I have: 
-Source: (https://github.com/myraort/cuberover)
+
+Source: <a href="https://github.com/myraort/cuberover"><i class="large github icon "></i>https://github.com/myraort/cuberover</a>
+
