@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/cuberover/rover.png
 title: "CubeRover"
 date: 2023
 published: true
