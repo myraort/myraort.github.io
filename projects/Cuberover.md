@@ -14,15 +14,12 @@ labels:
 summary: "A student-lead research group I was part in my second semester of college."
 ---
 
-<div class="text-center p-4">
-  <img width="400px" 
-       src="../img/cuberover/cuberover_cam.jpeg" 
-       class="img-thumbnail" >
+<img width="175px" 
+     class="rounded float-start pe-4" 
+     src="../img/cuberover/cuberover_cam.jpeg" >
 
 
 ### To the Moon! ###
-
-
 
 In my second semester of college, I was part of a student-lead research group led by Ashten Akemoto and worked with Jared Lo, Joy Miyazaki, and Kenoi Salvadori. Autonomous robotics is helpful to develop infrastructure and explore planets. Unfortunately, algorithms that run to help robots to localize, plan, and control are way too expensive. This project was about the development of a cooperative rover fleet for moon exploration. More specifically, implementing a multi-agent transfer visual teach and repeat algorithm (VTR) for robots in heterogeneous systems.
 
