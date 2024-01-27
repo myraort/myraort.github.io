@@ -71,3 +71,4 @@ void checkInRoom(vector<Room>& rooms, vector<Customer>& guests) {
 }
 ```
 
+Used ChatGPT for grammar checks and spelling errors.
