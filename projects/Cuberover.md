@@ -31,7 +31,7 @@ The rover!
 <img src="/img/cuberover/cuberover.gif" alt="GIF">
 
 
-Don't know where is the original Github repository but here is what I have: 
+Don't know where the original Github repository is but here is what I have: 
 
 Source: <a href="https://github.com/myraort/cuberover"><i class="large github icon "></i>https://github.com/myraort/cuberover</a>
 
