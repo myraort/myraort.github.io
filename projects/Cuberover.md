@@ -28,9 +28,6 @@ Looking back, I would say that Ashten really made us explore different avenues o
 
 The rover!
 
-![GIF](https://github.com/myraort/myraort.github.io/blob/main/img/cuberover/cuberover.gif) 
-
-<img src="https://raw.githubusercontent.com/myraort/myraort.github.io/blob/main/img/cuberover/cuberover.gif" alt="GIF">
 <img src="/img/cuberover/cuberover.gif" alt="GIF">
 
 
