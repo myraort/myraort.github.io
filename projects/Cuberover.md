@@ -30,7 +30,7 @@ Looking back, I would say that Ashten really made us explore different avenues o
 
 
 
-Don't know wheres the original Github Repo but here is what I have: 
+Don't know where is the original Github repository but here is what I have: 
 
 Source: <a href="https://github.com/myraort/cuberover"><i class="large github icon "></i>https://github.com/myraort/cuberover</a>
 
