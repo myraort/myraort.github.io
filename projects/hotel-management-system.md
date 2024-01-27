@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/hotel/hotel.jpeg
 title: "Hotel Management"
 date: 2023
 published: true
