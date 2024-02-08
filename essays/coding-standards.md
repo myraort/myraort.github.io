@@ -9,7 +9,11 @@ labels:
   - Javascript
   - Coding Standards
 ---
+<img width="175px" 
+     class="rounded float-start pe-4" 
+     src="../img/coding-standards/success.jpeg" >
 ## Good Coding Standards = Success? ##
+
 When it comes to writing code, I think there's one thing that can make a big difference in how good your software is: sticking to coding standards. It's like having a set of rules that help you write code in a way that's easy to understand, not just for you but for anyone else who might read it later. And you know what? I believe following these standards can actually help you get better at coding, especially when you're trying to learn a new programming language.
 
 Many programming languages are kind of similar. They have classes, functions, and they care about how you indent your lines to show what belongs together. Once you get the hang of these patterns, learning another language becomes a lot easier. That's where coding standards come in. They're like a guide that helps you understand these patterns, making it easier to pick up new languages along the way.
