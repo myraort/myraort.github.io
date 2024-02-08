@@ -19,7 +19,8 @@ In the real world as a software engineer, you're likely going to write more comp
 
 ## Is ESLint Helpful? ##
 
-<img class="img-fluid" src="../img/coding-standards/eslint.jpg" width="50%" style="margin-left:25%">
+<img width="500px" class="rounded float-start pe-4" src="../img/coding-standards/eslint.jpg">
+
 While using ESLint with IntelliJ, I found my experience to be a bit annoying at first. At first, it felt like ESLint was just waiting to catch me out, pointing out every little mistake. It was annoying to get all these errors about things I hadn't even finished writing yet. But as time went on, I started to see it differently. Before I used to be very lazy with my coding and just focused on the end goal, making my code work regardless of the format of my code. After using ESLint I realized that it was helping me write better code, one green checkmark at a time. Fixing those errors and seeing that green checkmark is quite satisfying. So, what started out as something annoying turned into something that actually made me a better coder.
 
 Coding standards might seem like just another set of rules, but they're more than that. They're a way to make your code better, learn new stuff easier, and work well with others. Getting used to tools like ESLint? It might be tough at first, but it's totally worth it in the end.
