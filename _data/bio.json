@@ -52,7 +52,7 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "Moanalua High School Music Department",
       "position": "Section Leader",
@@ -79,7 +79,7 @@
     {
       "title": "Dean's List",
       "date": "2023",
-      "awarder": "University of Hawaii at Manoa",
+      "awarded": "University of Hawaii at Manoa",
       "summary": "Special recognition awarded to students with a minimum GPA of 3.5."
     }
   ],
