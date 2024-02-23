@@ -18,7 +18,7 @@ labels:
      
 When I first started using basic HTML/CSS I felt like it was a walk in the park. At first I thought making a website was simple, everything seemed straightforward and manageable but it wasn’t the case when using frameworks, it felt like a whole new language. In this case we used a framework called Bootstrap 5. Bootstrap 5 is a free framework tool that helps you build websites/apps quickly with less code! I do admit it does sound like a great deal but it does take a while to have a deep understanding when using it. 
 
-## My Experience:
+## My Experience
 
 I found that making a website from scratch with Bootstrap 5 was fun but frustrating in its own ways. For an assignment in my ICS 314 class, we were tasked to rebuild a website using Bootstrap 5 from scratch. Honestly, bootstrap wasn’t simple to implement. I found it more confusing than just using raw HTML and CSS. I had a hard time understanding how to use this framework and found myself almost hitting the DNF time for the practice WOD. I had to rely on many open source tools and the documentation even though at times I felt it quite overwhelming.
 Sticking with plain old raw HTML/CSS can be more confusing when your code starts stacking up. I do admit that it’s good to just use it for a basic, bare-bones website but if you want to make something fancy, it gets more complicated. This is where the benefits of using a framework comes in.
