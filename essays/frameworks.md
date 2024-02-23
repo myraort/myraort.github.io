@@ -38,5 +38,5 @@ Can you tell which website was built with raw HTML/CSS and which one was built u
   <img width="450px" class="img-thumbnail" src="../img/frameworks/bootstrap5.png">
 </div>
 
-By no surprise the left one was raw HTML/CSS. Just by the aesthetics you can tell with the website that Bootstrap 5 looks cleaner and professional in a way. For the raw HTML/CSS page, creating simple columns required more code rather than using a framework. When I was using Bootstrap 5 to build this website, I found it very surprising that it required less coding thanks to its pre-built components. Overall, UI Frameworks is quite an amazing tool to utilize but it does come with its own learning curve. I hope to learn and utilize more frameworks to broaden my knowledge in the future. 
+By no surprise the left one is the raw HTML/CSS webpage. Just by the aesthetics you can tell with the website that Bootstrap 5 looks cleaner and professional in a way. For the raw HTML/CSS page, creating simple columns required more code rather than using a framework. When I was using Bootstrap 5 to build this website, I found it very surprising that it required less coding thanks to its pre-built components. Overall, UI Frameworks is quite an amazing tool to utilize but it does come with its own learning curve. I hope to learn and utilize more frameworks to broaden my knowledge in the future. 
 <hr>
