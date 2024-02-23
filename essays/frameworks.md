@@ -13,6 +13,10 @@ labels:
 
 ## Why Bother using Frameworks?
 
+<img width="175px" 
+     class="rounded float-start pe-4" 
+     src="../img/frameworks/logo.jpeg" >
+
 When I first started using basic HTML/CSS I felt like it was a walk in the park. At first I thought making a website was simple, everything seemed straightforward and manageable but it wasn’t the case when using frameworks, it felt like a whole new language. In this case we used a framework called Bootstrap 5. Bootstrap 5 is a free framework tool that helps you build websites/apps quickly with less code! I do admit it does sound like a great deal but it does take a while to have a deep understanding when using it. 
 
 ## My experience:
