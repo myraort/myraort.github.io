@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Sticking with Good Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-8
+date: 2024-02-08
 published: true
 labels:
   - Javascript
