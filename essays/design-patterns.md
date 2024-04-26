@@ -26,7 +26,7 @@ Just as a baker must carefully prepare the cake base, ensuring it's being well-m
 
 #### The Middle Layer
 
-Above the base layer sits the ViewModel, much like a cake's filling that connects the base to the top. The ViewModel acts as a channel between the Model and the View, facilitating communication and data flow between the backend and the frontend.This is where the application's logic is located, handling user inputs and converting data from the Model into formats the View can use. In our baking analogy, this is similar to a baker ensuring the filling complements both the flavor and structure of the base while preparing it to support the upper decorations.
+Above the base layer sits the ViewModel, much like a cake's filling that connects the base to the top. The ViewModel acts as a channel between the Model and the View, facilitating communication and data flow between the backend and the frontend. This is where the application's logic is located, handling user inputs and converting data from the Model into formats the View can use. In our baking analogy, this is similar to a baker ensuring the filling complements both the flavor and structure of the base while preparing it to support the upper decorations.
 
 #### The Top Layer
 
@@ -45,6 +45,6 @@ Just like a baker makes different flavored cakes for various tastes, the MVVM pa
 
 In the end, a cake lies on its presentation, the success of an application often depends on its user interface. The View ensures that the user's interaction is smooth and enjoyable, similar to how the great icing and decorations make a cake not only delicious but also visually appealing.
 
-By using the MVVM design pattern, developers can ensure that their "cakes" are not only well-structured and sturdy but also pleasant to interact with, demonstrating that the correct recipe and method are essential in both baking and software development.
+By using the MVVM design pattern, developers can ensure that their cakes are not only well-structured and sturdy but also pleasant to interact with, demonstrating that the correct recipe and method are essential in both baking and software development.
 
 Used ChatGPT for grammar checks and spelling errors.
