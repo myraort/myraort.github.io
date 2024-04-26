@@ -6,7 +6,9 @@ title: "Stacking it Up"
 date: 2024-04-25
 published: true
 labels:
+  - Software Engineering
   - Design Patterns
+  - Javascript
 ---
 <img width="150px"
     class="rounded float-start pe-4"
@@ -44,3 +46,5 @@ Just like a skilled baker makes different flavored cakes for various tastes, the
 In the end, a cake lies on its presentation, the success of an application often depends on its user interface. The View ensures that the user's interaction is smooth and enjoyable, similar to how the great icing and decorations make a cake not only delicious but also visually appealing.
 
 By using the MVVM design pattern, developers can ensure that their "cakes" are not only well-structured and sturdy but also pleasant to interact with, demonstrating that the correct recipe and method are essential in both baking and software development.
+
+Used ChatGPT for grammar checks and spelling errors.
