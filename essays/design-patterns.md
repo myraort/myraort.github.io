@@ -14,7 +14,7 @@ labels:
     class="rounded float-start pe-4"
     src="../img/design-patterns/cake.png" >
 
-Design patterns are crucial to the structure and efficiency of any software application. Think of building an application like baking a complex cake, where each component of the application is a different ingredient in the recipe. Just as a baker uses specific recipes to ensure that the cake turns out well, software developers use design patterns to guide the assembly and interaction of various components. Design patterns are not just solutions but are tried and tested methods that act like baking instructions, helping to manage the complexities of software development. These patterns ensure that the application is maintainable and can serve its intended purpose, much like a well-followed recipe guarantees a delicious and structurally sound cake.
+Design patterns are crucial to the structure and efficiency of any software application. Think of building an application like baking a cake, where each component of the application is a different ingredient in the recipe. Just as a baker uses specific recipes to ensure that the cake turns out well, software developers use design patterns to guide the assembly and interaction of different components. Design patterns are not just solutions but are tried and tested methods that act like baking instructions. This helps handle the complexities of software development. These patterns make sure the application is easy to maintain and works as intended, just like following a recipe closely ensures a tasty and well-made cake.
 
 ### MVVM
 
@@ -38,7 +38,7 @@ Just like a baker changes recipes for different tastes and events, developers us
 
 ### Multi-flavored Cake
 
-Just like a skilled baker makes different flavored cakes for various tastes, the MVVM pattern handles the different parts of an application. It makes sure each part, whether it's dealing with data or user interactions, works well in its role without interfering with other parts. This separation makes the application easier to maintain and scale up.
+Just like a baker makes different flavored cakes for various tastes, the MVVM pattern handles the different parts of an application. It makes sure each part, whether it's dealing with data or user interactions, works well in its role without interfering with other parts. This separation makes the application easier to maintain and scale up.
 
 
 ### The Finishing Touches
