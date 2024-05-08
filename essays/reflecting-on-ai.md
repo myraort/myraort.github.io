@@ -96,7 +96,7 @@ I believe that traditional teaching methods like lectures and textbooks are soli
 
 ### VII. Future Considerations:
 
-A significant area for improvement is the problem of deepfakes. . As AI gets better at creating realistic but fake images and videos, it's important for students to learn about the ethical challenges it poses. It is important to teach how to handle AI’s impacts responsibly, like preventing the misuse of deepfakes. Including lessons on ethics and tools to detect fake content can help prepare students to use AI wisely and responsibly in the real world.
+A significant area for improvement is the problem of deepfakes. As AI gets better at creating realistic but fake images and videos, it's important for students to learn about the ethical challenges it poses. It is important to teach how to handle AI’s impacts responsibly, like preventing the misuse of deepfakes. Including lessons on ethics and tools to detect fake content can help prepare students to use AI wisely and responsibly in the real world.
 
 ### VIII. Conclusion:
 
