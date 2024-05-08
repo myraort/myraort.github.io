@@ -22,60 +22,59 @@ AI is everywhere in this day of age and sometimes frowned upon. I remember back 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+1. Experience WODs e.g. E18
 
 I did not use AI for the experience WODs since whenever I do get stuck or DNF, I prefer watching the Youtube videos from the professor to see where I went wrong and then attempt to solve the WODs again on my own.
 
-  2. In-class Practice WODs
+2. In-class Practice WODs
 
 I used AI for in-class practice WODs if I am running out of time or if I’m desperately in need of help. For example, I utilize ChatGPT for styling since there are many styling components used in bootstrap.
 
-  3. In-class WODs
+3. In-class WODs
 
 I usually don’t like working in time-sensitive/high-pressure situations. Since in-class WODs were 100 points all or nothing I used it more as a safety backup. Whenever I am in a time crunch and or if I have some bugs and I don’t know how to fix them I would depend on it often. 
 
-  4. Essays
+4. Essays
 
 This semester, I've used AI to help with my essays, especially for checking spelling mistakes and coming up with creative titles. I often struggle to think of engaging titles on my own, so turning to AI for suggestions has been really helpful.
 
-
-  5. Final project
+5. Final project
 
 For our project I did use AI. I was not too familiar with backend so I usually asked ChatGPT to help me out. I heavily used open resources such as libraries to implement React Bootstrap components such as cards and buttons. This taught me a lot about looking things up the right way and to learn and solve problems efficiently.
 
-  6. Learning a concept / tutorial
-
+6. Learning a concept / tutorial
+   
 I used AI like ChatGPT to help me although like mentioned above, I prefer being able to ask smart questions and being able to look things up on my own. I am also a visual learner, I find that watching Youtube tutorials online aligns better with my learning style. 
 
-  7. Answering a question in class or in Discord
+7. Answering a question in class or in Discord
 
 I did not use AI for answering questions in class or on discord since most of the questions I had were administrative questions.
 
-  8. Asking or answering a smart-question
+8. Asking or answering a smart-question
 
 I did not use AI for asking or answering a smart question since most of the questions I had were already answered in the discord ‘smart-questions’ channel. I believe that it is a necessary skill to learn how to come up and ask a smart question rather than asking AI to do it for you.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”
 
 Yes, AI helped me improve my understanding of concepts. I remember using it a lot the first few weeks when we had to cram learning Javascript, ESLint, and Underscore.
 
-  10. Explaining code
+10. Explaining code
 
 Yes, I used ChatGPT to explain code although I noticed that ChatGPT can be quite vague. It really just gives a broad overview of what the code does which can be helpful for a general understanding but it often skips over the nitty gritty pieces.
 
-  11. Writing code
+11. Writing code
 
 Yes, I used ChatGPT for writing code especially when working with React components that subscribe to and fetch client data from a Meteor server. It can be very repetitive since it uses the same structure over and over again. I found that using ChatGPT helped me cut down my time and focus more on the unique aspects of the project. 
 
-  12. Documenting code
+12. Documenting code
 
 No, I did not use AI to document my code. Halfway into this project, I lost my habit of documenting code which is not good and something I should do more often. 
 
-  13. Quality assurance 
+13. Quality assurance 
 
 I did not find it necessary to use AI like ChatGPT since IntelliJ integrates tools like ESLint. When I hover over errors, it usually tells me what's wrong and suggests how I can fix them.
 
-  14. Other uses in ICS 314 not listed above
+14. Other uses in ICS 314 not listed above
 
 I did not use AI for anything that has not yet been mentioned above for ICS 314.
 
