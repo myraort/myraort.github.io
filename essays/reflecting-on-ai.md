@@ -75,7 +75,7 @@ I have used AI in class this semester in the following areas:
 
 14. Other uses in ICS 314 not listed above
 
-I did not use AI for anything that has not yet been mentioned above for ICS 314.
+    I did not use AI for anything that has not yet been mentioned above for ICS 314.
 
 ### III. Impact on Learning and Understanding:
 
