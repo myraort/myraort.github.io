@@ -36,7 +36,7 @@ I have used AI in class this semester in the following areas:
 
 4. Essays
 
-   This semester, I've used AI to help with my essays, especially for checking spelling mistakes and coming up with creative titles. I often struggle to think of engaging titles on my own, so turning to AI for suggestions has been really helpful.
+   This semester, I've used AI to help with my essays such as checking for spelling errors and coming up with creative titles. I often struggle to think of engaging titles on my own, so turning to AI for suggestions has been really helpful.
 
 5. Final project
 
