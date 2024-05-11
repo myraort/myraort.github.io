@@ -13,6 +13,9 @@ labels:
   - Meteor
 summary: "‘Imi Invasive helps to better track and manage invasive species across the Hawaiian Islands."
 ---
+<div class="text-center p-4">
+  <img width="500px" src="../img/imi-invasive/logo.png" class="img-thumbnail" >
+</div>
 
 ## Project Overview
 
@@ -22,16 +25,50 @@ The project ‘Imi Invasive is a web application that aims to help track and man
 
 ## Personal Contributions
  
-For this project, I mainly worked on the signup page, edit profile page, list profile page, adding database data...
+For this project, I mainly worked on the profile pages (edit profile, list profile, and view profile) and modifying the sign up page. The profile pages are found in the top right corner dropdown. I also worked on providing test data and refining our database. Click on the images to view the source code!
 
 ### Sign-up Page
-When you sign up, you are asked to fill out a form with your name, email, password, bio, and interests (bio and interests are optional). The form is validated to ensure that all fields are filled out correctly. Once the form is submitted, the user is added to the database and redirected to the home page. Click on the images to view the source code!
+When you sign up, you are asked to fill out a form with your name, email, password, bio, and interests (bio and interests are optional). The form is validated to ensure that all fields are filled out correctly. Once the form is submitted, the user is added to the database and redirected to the home page. 
+
+  <a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/SignUp.jsx"><img width="500px" src="../img/imi-invasive/sign-up.png" class="img-thumbnail" ></a>
 
 ### Edit Profile Page
-The edit profile page allows users to update their profile information. Users can change their name, email, password, bio, interests, and also add a profile picture! The form is pre-filled with the user's current information, and users can update any fields as they wish. 
+The edit profile page is found in the top right corner dropdown, this page allows users to update their profile information. Users can change their name, email, password, bio, interests, and can add a profile picture! The form is pre-filled with the user's current information, and users can update any fields as they wish. 
+
+ <img width="500px" src="../img/imi-invasive/dropdown.png">
+
+
+
+<a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/EditProfile.jsx"><img width="500px" src="../img/imi-invasive/edit-profile.png" class="img-thumbnail" ></a>
 
 
 ### List Profile Page
-The list profile page displays a list of all users in the database. Each user is displayed with their name, email, bio, and interests. Users can click on a user's name to view their profile page. The list is paginated to display a limited number of users per page. Users can navigate through the list using the pagination buttons at the bottom of the page.
+The list profile page is also found in the top right corner dropdown. This displays a list of all users in the database. Each user is displayed with their name, email, bio, and interests. Users can click on a user's name to view their profile page.
+
+<a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/ListProfile.jsx"><img width="500px" src="../img/imi-invasive/list-profile.png" class="img-thumbnail" ></a>
+
+### List Profile Page Admin
+The admin is allowed to delete a profile if they deem it inappropriate.
+
+<a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/ListProfileAdmin.jsx"><img width="500px" src="../img/imi-invasive/list-profile-admin.png" class="img-thumbnail" ></a>
+
+
+### View Profile Page
+The view profile page displays a user's profile information. Users can see the user's name, email, bio, interests, and profile picture.
+
+<a href="https://github.com/islandinvaders/imi-invasive/blob/main/app/imports/ui/pages/ViewProfile.jsx"><img width="500px" src="../img/imi-invasive/view-profile.png" class="img-thumbnail" ></a>
 
 ## What I Learned
+
+Overall, I learned how important it is to effectively communicate/work with a team, efficiently how to research coding libraries on my own, and gained overall software engineering skills that will support me in all my future endeavors.
+
+Thank you to my amazing group members:
+
+- Natalie Ching
+- Lily Enanoria
+- Allison Ebsen
+- Gian Panoy
+
+[Click here to learn more about the project](https://islandinvaders.github.io/)<br>
+[Check out our project on Github](https://github.com/islandinvaders/imi-invasive)<br>
+
