@@ -32,6 +32,6 @@ Another concept that stood out to me was APM known as Agile Project Management. 
 
 <img width="175px"
 class="rounded float-start pe-4"
-src="../img/swe-reflection/bye2.png" >
+src="../img/swe-reflection/bye3.jpeg" >
 
 I wish there are more classes like this that UH has to offer. I really enjoyed the flipped classroom style as it is more hands on. As this software engineering class has come to an end, I wish to use my experience in my future education.
