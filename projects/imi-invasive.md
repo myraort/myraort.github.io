@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img
+image: img/imi-invasive/logo.png
 title: "Imi-Invasive"
 date: 2024
 published: true
