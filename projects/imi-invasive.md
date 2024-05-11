@@ -62,13 +62,6 @@ The view profile page displays a user's profile information. Users can see the u
 
 Overall, I learned how important it is to effectively communicate/work with a team, efficiently how to research coding libraries on my own, and gained overall software engineering skills that will support me in all my future endeavors.
 
-Thank you to my amazing group members:
-
-- Natalie Ching
-- Lily Enanoria
-- Allison Ebsen
-- Gian Panoy
-
 [Click here to learn more about the project](https://islandinvaders.github.io/)<br>
 [Check out our project on Github](https://github.com/islandinvaders/imi-invasive)<br>
 
