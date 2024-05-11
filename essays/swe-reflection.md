@@ -28,10 +28,10 @@ On the last day of class, we had a debate that highlighted the importance of eth
 
 Another concept that stood out to me was APM known as Agile Project Management. It involves breaking down large projects into smaller, more manageable tasks, making teamwork more efficient and effective. In my ICS 314 class, we used a particular style called Issue Driven Project Management (IDPM), just like divide and conquer. We used Github’s project board and issue feature. We divided things into milestones and throughout the project we had three. For each milestone we created specific goals about what we wanted to accomplish at the end of each milestone, such as, “add remove button to ListProfileAdmin.jsx page”. From that we assign it to a member. In the project board there are features that help you estimate the amount of time it will take you to complete a task (coding and non-coding) which I found very useful. There are also columns called “To-Do”, “In-Progress”, and “Done” for each milestone. I found it a very neat and helpful way to keep tasks organized. This helped us break down our project into smaller yet simple tasks and is very doable for each member in our team.
 
-## Goodbye for now...
-
 <img width="175px"
 class="rounded float-start pe-4"
 src="../img/swe-reflection/bye.jpeg" >
+
+## Goodbye for now...
 
 I wish there are more classes like this that UH has to offer. I really enjoyed the flipped classroom style as it is more hands on. As this software engineering class has come to an end, I wish to use my experience in my future education.
