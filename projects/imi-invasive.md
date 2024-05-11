@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/imi-invasive/logo2.png
-title: "Imi-Invasive"
+title: "ʻImi-Invasive"
 date: 2024
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
   - UI Frameworks
   - Ecosystem Preservation
   - Meteor
-summary: "‘Imi Invasive helps to better track and manage invasive species across the Hawaiian Islands."
+summary: "ʻImi Invasive helps to better track and manage invasive species across the Hawaiian Islands."
 ---
 <div class="text-center p-4">
   <img width="500px" src="../img/imi-invasive/logo.png" class="img-thumbnail" >
@@ -19,9 +19,9 @@ summary: "‘Imi Invasive helps to better track and manage invasive species acro
 
 ## Project Overview
 
-The project ‘Imi Invasive is a web application that aims to help track and manage invasive species across the Hawaiian Islands. The application is designed to provide a platform for users to report sightings of invasive species, which can then be used to monitor and manage these species effectively. The application also provides information on invasive species, their impact on the ecosystem, and ways to prevent their spread.
+The project ʻImi Invasive is a web application that aims to help track and manage invasive species across the Hawaiian Islands. The application is designed to provide a platform for users to report sightings of invasive species, which can then be used to monitor and manage these species effectively. The application also provides information on invasive species, their impact on the ecosystem, and ways to prevent their spread.
 
-‘Imi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem. It should serve as an educational resource and also a centralized app for people to report and help manage invasive species across the Hawaiian Islands.
+ʻImi Invasive aims to address invasive species management challenges by establishing a citizen science initiative to bring the community together and educate people on invasive species, raising awareness and empowering the community and professionals to be able to better track the harmful species and care for the ecosystem. It should serve as an educational resource and also a centralized app for people to report and help manage invasive species across the Hawaiian Islands.
 
 ## Personal Contributions
  
